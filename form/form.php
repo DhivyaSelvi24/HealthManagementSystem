@@ -268,6 +268,22 @@
             scriptURL = 'https://script.google.com/macros/s/AKfycbzpBDRYeufyj7WaBRg81hne6GtdVOZHpJfFDcEyFxKEAAFodZLIl2kFck-j8oVkxuWK1g/exec';
         } else if (formName === 'Postpartum_Form'){
             scriptURL = 'https://script.google.com/macros/s/AKfycbw3Rv0NkA7ITpEvTbQmOVX0GrDe19CIl_qtO5asTv7aRrQeChzqhGtrcqWSuYiqznYa/exec';
+        } else if (formName === 'Psychosis_Form'){
+            scriptURL = 'https://script.google.com/macros/s/AKfycbxQT7BoN4YVVKl7fjxbjIzr465PiPYWgqemx44DldV3LBtAityKhW-mvAX3fFay6Bp-QA/exec';
+        } else if (formName === 'PTSD'){
+            scriptURL = 'https://script.google.com/macros/s/AKfycbyEzWoi9nQj56zTWMhT4t0jm592HZpkZKA8SPXSFLXYJmPB8C985ufxaKuTyEes2uFuLw/exec';
+        } else if (formName === 'Child_mental_test'){
+            scriptURL = 'https://script.google.com/macros/s/AKfycbzk707UwzSKB8Bx0EqEFf4v4qD4fBldjJN0ZS64k1Lfws3n3SL25HfzYDUrJo-Jj4bZug/exec';
+        } else if (formName === 'Youth_mental_test'){
+            scriptURL = 'https://script.google.com/macros/s/AKfycbw8OmCdxq99P_aNqpkLmMX4JfG7Y1jDflVn1SZdYaF1Qd56Bk8cflHzvRAsO7g2X10o/exec';
+        } else if (formName === 'Bipolar_test'){
+            scriptURL = 'https://script.google.com/macros/s/AKfycbz5pQfrRcoSjcNxeNyN_y_IdeeJ9Ee9bK_fFogHkTUjMG17iG1-WD0Q5Nn_Nnf6qens/exec';
+        } else if (formName === 'Eating_disorder'){
+            scriptURL = 'https://script.google.com/macros/s/AKfycbxrtFf18A1BVnFrveBSSqwIgLVdCfcHq67UxCVwxQezoLE4K4xfaJbgF9IiQofTtOwP/exec';
+        } else if (formName === 'Pet_Test'){
+            scriptURL = 'https://script.google.com/macros/s/AKfycbwf6D7SkzNoXhPKCNeH22fJzRcmBpP_lsGiQcU7mgwx5OEWQfuuEc7oy4luIvcXhVz_/exec';
+        } else if (formName === 'Self_injury'){
+            scriptURL = 'https://script.google.com/macros/s/AKfycbxGmxxA3jn7049_82ejKWqDIQVInUvVePk5QwNpPtMZrvZtTg2hqAUgFXGqxgC0rf_jzQ/exec';
         }
         
     
